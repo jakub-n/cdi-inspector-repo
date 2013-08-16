@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name="CDI Inspector composite repository"
+    type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1376051657'/>
+  </properties>
+  <children size='3'>
+    <child location='file:/run/media/watt/eve/cdi_visualization/code/CDI-inspector/code/cz.muni.fi.cdii.repository/target/repository'/>
+    <child location='http://download.jboss.org/jbosstools/updates/stable/kepler/'/>
+    <child location='https://raw.github.com/jakub-n/test-zest/master/repository'/>
+  </children>
+</repository>
