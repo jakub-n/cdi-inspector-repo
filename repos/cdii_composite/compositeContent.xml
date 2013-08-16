@@ -6,8 +6,8 @@
     <property name='p2.timestamp' value='1376051657'/>
   </properties>
   <children size='3'>
-    <child location='file:/run/media/watt/eve/cdi_visualization/code/CDI-inspector/code/cz.muni.fi.cdii.repository/target/repository'/>
+    <child location='https://raw.github.com/jakub-n/cdi-inspector-repo/master/repos/cdii'/>
     <child location='http://download.jboss.org/jbosstools/updates/stable/kepler/'/>
-    <child location='https://raw.github.com/jakub-n/test-zest/master/repository'/>
+    <child location='https://raw.github.com/jakub-n/cdi-inspector-repo/master/repos/zest_2'/>
   </children>
 </repository>
