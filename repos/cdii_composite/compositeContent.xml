@@ -3,7 +3,7 @@
 <repository name='CDI Inspector composite repository'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1376051657'/>
+    <property name='p2.timestamp' value='20131116002638'/>
   </properties>
   <children size='3'>
     <child location='https://raw.github.com/jakub-n/cdi-inspector-repo/master/repos/cdii'/>
