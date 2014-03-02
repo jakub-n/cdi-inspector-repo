@@ -46,7 +46,7 @@
 						</resource>
 						<resource>
 							<targetPath>repos/cdii</targetPath>
-							<directory>../CDI-inspector/code/cz.muni.fi.cdii.repository/target/repository</directory>
+							<directory>../CDI-inspector/code/eclipse-plugin/repository/target/repository</directory>
 						</resource>
 					</resources>
 					<overwrite>true</overwrite>
